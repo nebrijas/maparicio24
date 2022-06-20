@@ -22,3 +22,4 @@ Hay que destacar también el diseño de la publicación que lo hace atractivo de
 Como debilidad del reportaje puedo pensar en la predicción que hace el equipo sobre los nacimientos del futuro.  En mi análisis, considero que se adelantan a lo que no ha ocurrido. 
 
 
+
