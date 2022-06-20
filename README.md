@@ -1,4 +1,4 @@
-# Actividada Dirigida 1
+# Repositorio de trabajo del módulo de Periodismo de Datos II
 
 Periodismo de datos ll
 
@@ -20,6 +20,8 @@ En esa sección explica cómo se realizó el reportaje, la recopilación de la i
 
 Hay que destacar también el diseño de la publicación que lo hace atractivo de principio a fin. 
 Como debilidad del reportaje puedo pensar en la predicción que hace el equipo sobre los nacimientos del futuro.  En mi análisis, considero que se adelantan a lo que no ha ocurrido. 
+## Actividades Dirigidas
 
-
+[Actividad Dirigida 1](ad1.md)
+[Actividad Dirigida 2](ad2.md)
 
