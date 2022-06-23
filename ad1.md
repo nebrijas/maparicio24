@@ -1,4 +1,4 @@
-# Repositorio de trabajo del módulo de Periodismo de Datos II
+# Actividad 1
 
 Periodismo de datos ll
 
