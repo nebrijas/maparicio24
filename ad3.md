@@ -6,7 +6,7 @@ Esta es la **actividad dirigida 3**, que consiste en hacer un ejercicio de progr
 
 A continuacion el codigo a implementar:
 
-```
+```python
 import requests
 import time
 import csv
@@ -265,23 +265,23 @@ for h2 in tags:
     resultados.append(h2.text)
 ```
 
-NOTA: <URL>, es donde ira las URL a realizar el scrapping.
+NOTA: "URL", es donde ira las URL a realizar el scrapping.
     Las URL a realizar scrapping son las siguiente:
-- https://resultados.elpais.com
-- https://elpais.com/internacional
-- https://elpais.com/opinion
-- https://elpais.com/espana/
-- https://elpais.com/economia/
-- https://elpais.com/educacion/
-- https://elpais.com/clima-y-medio-ambiente/
-- https://elpais.com/ciencia/
-- https://elpais.com/cultura/
-- https://elpais.com/babelia/
-- https://elpais.com/deportes/
-- https://elpais.com/tecnologia/
-- https://elpais.com/gente/
-- https://elpais.com/television/
-- https://elpais.com/eps/
+- `https://resultados.elpais.com`
+- `https://elpais.com/internacional`
+- `https://elpais.com/opinion`
+- `https://elpais.com/espana/`
+- `https://elpais.com/economia/`
+- `https://elpais.com/educacion/`
+- `https://elpais.com/clima-y-medio-ambiente/`
+- `https://elpais.com/ciencia/`
+- `https://elpais.com/cultura/`
+- `https://elpais.com/babelia/`
+- `https://elpais.com/deportes/`
+- `https://elpais.com/tecnologia/`
+- `https://elpais.com/gente/`
+- `https://elpais.com/television/`
+- `https://elpais.com/eps/`
     
 Posterior a esto se realizara una categorizacion de los temas usando palabras claves de la siguiente forma:
 ```python
@@ -292,15 +292,15 @@ print("\n".join(str_match))
 Para el caso de este codigo se busca encontrar la palabra feminismo en los titulos.
 
 Se realizo la categorizacion con las siguientes categorias:
-    - Feminismo
-    - Igualdad
-    - Mujeres
-    - Mujer
-    - Brecha salarial
-    - Machismo
-    - Violencia
-    - Maltrato
-    - Homicidio
-    - Género
-    - Asesinato
-    - Sexo
+- `Feminismo`
+- `Igualdad`
+- `Mujeres`
+- `Mujer`
+- `Brecha salarial`
+- `Machismo`
+- `Violencia`
+- `Maltrato`
+- `Homicidio`
+- `Género`
+- `Asesinato`
+- `Sexo`
